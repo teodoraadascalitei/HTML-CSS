@@ -1,0 +1,23 @@
+
+h{
+text-align: center;
+ font-size: 35px;
+ color: pink;
+text-shadow: 2px 2px red;
+}
+p {
+  font-size: 19px;
+   color: white;
+   text-align: center;
+}
+
+img {
+  border-radius: 8px;
+max-width: 100%;
+  height: auto;
+}
+
+body
+{
+background-color: black;
+}

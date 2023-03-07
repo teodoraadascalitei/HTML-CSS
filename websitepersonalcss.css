@@ -1,0 +1,87 @@
+
+
+
+.primaimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+.dansuri{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+img{
+  border-radius: 50%;
+}
+
+
+.inceput {
+    font-size: 35px;
+    text-align: center;
+    color: red;
+    background-color: black;
+    
+}
+h5{
+font-size: 20px;
+    text-align: center;
+    color: red;
+    background-color: pink;
+}
+
+.final{
+    font-size: 20px;
+    text-align: center;
+    color: red;
+
+}
+.lista{
+    font-size: 20px;
+    text-align: center;
+    color: pink;
+    text-shadow: 2px 2px red;
+
+}
+.inaintedelista{
+       text-align: center;
+       color: gray;
+       font-size: 20px;
+}
+h6{
+       text-align: center;
+       color: gray;
+       font-size: 20px;
+}
+
+p {
+       
+       border: 2px solid powderblue;
+       margin: 50px;
+       text-align: center;
+}
+
+
+    
+ol {
+    
+      padding: 20px;
+      color: red;
+    
+}
+
+
+ol li {
+      background: #ffe5e5;
+      padding: 5px;
+      margin-left: 35px;
+}
+
+
+
+

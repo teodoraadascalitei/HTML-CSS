@@ -1,0 +1,33 @@
+.titlu1 {
+      font-size: 35px;
+    text-align: left;
+    color: red;
+    
+}
+
+
+  img {
+  border-radius: 8px;
+max-width: 100%;
+  height: auto;
+
+}
+       
+        
+.titlu2{
+text-align: center;
+ font-size: 35px;
+ color: pink;
+text-shadow: 2px 2px red;
+
+
+}
+p {
+  font-size: 19px;
+   color: white;
+   text-align: center;
+}
+body
+{
+background-color: black;
+}
